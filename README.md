@@ -8,7 +8,7 @@ This project was assembled in Unity (TODO insert version) across Windows 10, Mac
 GUI and 2D assets, like this infinitly repeating [sand texture](https://github.com/ZeHolyQofPower/Refuge/blob/main/Assets/Visual/Pictures/sand.png), created in GIMP:
 
 
-<img src="https://github.com/ZeHolyQofPower/Refuge/blob/main/Assets/Visual/Pictures/sand.png" width="100" height="100"/>
+<img alt="sand" src="https://github.com/ZeHolyQofPower/Refuge/blob/main/Assets/Visual/Pictures/sand.png" width="100" height="100"/>
 
 3D assets created in Blender.
 TODO test if gifs can be used from this repo
