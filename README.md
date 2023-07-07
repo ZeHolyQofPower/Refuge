@@ -5,10 +5,9 @@ This game also has a two minute [trailer](https://www.youtube.com/watch?v=6IcB0d
 
 ## Technical Skills Presented
 This project was assembled in Unity (TODO insert version) across Windows 10, MacOS, and Pop!_OS 20.04.
-GUI and 2D assets, like this infinitly repeating [sand texture](https://github.com/ZeHolyQofPower/Refuge/blob/main/Assets/Visual/Pictures/sand.png), created in GIMP:
+GUI and 2D assets created in GIMP. Examples:
 
-
-<img alt="sand" src="https://github.com/ZeHolyQofPower/Refuge/blob/main/Assets/Visual/Pictures/sand.png" width="100" height="100"/>
+<img src="https://github.com/ZeHolyQofPower/Refuge/blob/main/Assets/Visual/Pictures/sand.png" width="100" height="100"/>    <img src="https://github.com/ZeHolyQofPower/Refuge/blob/main/Assets/Visual/Pictures/grass.png" width="100" height="100"/>
 
 3D assets created in Blender.
 TODO test if gifs can be used from this repo
@@ -20,7 +19,7 @@ Animation of 3D models using inverse kinematics in both Blender and Unity.
 Material effects like transparency, reflections, and simple animations, created in Unity's Shader Engine.
 
 ## Soft Skills Presented
-Project Management in Discord and Github
+Project Management in Discord and Github.
 
 ## Digging Into The Weeds
 Do you have a technical background and want to really take a look yourself?
