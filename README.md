@@ -24,5 +24,8 @@ Project Management in Discord and Github.
 ## Digging Into The Weeds
 Do you have a technical background and want to really take a look yourself?
 
+TODO, check downloadability on Windows.
+
+
 # Refuge
 Final build mirror: https: [drive.google.com/drive/folders/1qWDePw4Cg8pD65aCcJvwfTi9Cq34CdVd](https://drive.google.com/drive/folders/1qWDePw4Cg8pD65aCcJvwfTi9Cq34CdVd)
