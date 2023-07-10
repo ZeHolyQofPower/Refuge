@@ -4,22 +4,31 @@ Refuge is a 3D puzzle adventure game. An island to explore, jwith ournal excerpt
 This game also has a two minute [trailer](https://www.youtube.com/watch?v=6IcB0dZ5vS0&t=10s) on YouTube.
 
 ## Technical Skills Presented
-This project was assembled in Unity (TODO insert version) across Windows 10, MacOS, and Pop!_OS 20.04.
-GUI and 2D assets created in GIMP. Examples:
 
-<img src="https://github.com/ZeHolyQofPower/Refuge/blob/main/Assets/Visual/Pictures/sand.png" width="100" height="100"/>    <img src="https://github.com/ZeHolyQofPower/Refuge/blob/main/Assets/Visual/Pictures/grass.png" width="100" height="100"/>
+* This project was assembled in Unity 2021.3.11f1 across Windows 10, MacOS, and Pop!_OS 20.04.
+* GUI and all 2D assets created in GIMP. Infinitly repeating textures for sand and grass for example:
 
-3D assets created in Blender.
-TODO test if gifs can be used from this repo
-TODO upload all wanted demo gifs.
+<img src="https://github.com/ZeHolyQofPower/Refuge/blob/main/Assets/Visual/Pictures/sand.png" width="150" height="150"/>    <img src="https://github.com/ZeHolyQofPower/Refuge/blob/main/Assets/Visual/Pictures/grass.png" width="150" height="150"/>
+* 3D models created in Blender. This rat model for example:
+
+<img src="https://github.com/ZeHolyQofPower/Refuge/blob/main/rat_jr_model.png" width="300" height="150"/>
+
+* Rigging, Weighting, and inverse kinematic animation using keyframes done in Blender.
+
+<img src="https://github.com/ZeHolyQofPower/Refuge/blob/main/rat_jr.gif" width="400" height="200"/>
+
+* Movement animations and state logic made using C# scripts in Unity.
+
+* Material effects like transparency, reflections, and bump maps, created in Unity's Shader Engine.
+
+<insert ocean waves gif here>
 
 <img src="https://tenor.com/view/test-gif-19742784.gif" width="40" height="40"/>
 
-Animation of 3D models using inverse kinematics in both Blender and Unity.
-Material effects like transparency, reflections, and simple animations, created in Unity's Shader Engine.
-
 ## Soft Skills Presented
-Project Management in Discord and Github.
+* There were three of us!
+* Project Management in Discord and Github.
+* Done in five weeks?
 
 ## Digging Into The Weeds
 Do you have a technical background and want to really take a look yourself?
