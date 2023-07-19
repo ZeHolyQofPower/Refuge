@@ -18,30 +18,27 @@ This game also has a two minute [trailer](https://www.youtube.com/watch?v=6IcB0d
 <img src="https://github.com/ZeHolyQofPower/Refuge/blob/main/Readme_Assets/rat_jr.gif" width="400" height="200"/>
 
 * Movement animations and state logic made using C# scripts in Unity.
-
 * Material effects like transparency, reflections, and bump maps, created in Unity's Shader Engine.
 
-TODO(insert ocean waves gif here from windows)
-
-<img src="https://tenor.com/view/test-gif-19742784.gif" width="40" height="40"/>
+<img src="https://github.com/ZeHolyQofPower/Refuge/blob/main/Readme_Assets/ocean_waves.gif" width="600" height="300"/>
 
 ## Soft Skills Presented
-* Wrote a detailed Game Design Document.
-* Maybe write something about our Agile-esq deelopment cycle.
-* Merge Day!
-* There were three of us!
-* We had senior year of college at the same time.
-* Communication
-* Weekly meetings on Discord
-* Had to write "we fucked up" email together once
-* Had weekly progress reports
-* Done in five weeks?
+* We were a team of three for the entire semester. This specific game had about TODO # weeks of development.
+* TODO put GDD in here and link to it
+* Wrote a detailed [game design document](https://duckduckgo.com/) that planned out the deliverables and unified vision.
+* Met in weekly stand up meetings outside of our class time. Also communicated regularly in a Discord server.
+* Adjusted our plan and development sprints around professor feedback and other school projects.
+* Spent time together in person to solve software interaction problems and merge complex branches.
+* Picked up and learned completetly new software tools independent of any instruction.
+* Polished complete game, and created trailer at end to present to class!
 
-## Digging Into The Code
+## Digging Into the Details and Code
 Do you have a technical background and want to really take a look yourself?
 
-TODO, check downloadability on Windows.
+The [refuge_build_for_windows.zip](https://github.com/ZeHolyQofPower/Refuge/blob/main/refuge_build_for_windows.zip) is a complete and self contained Windows version. You can download it and play it for yourself.
 
+Unity is a detailed IDE with many included libaries and tools. For visual assets created outside of it and imported, a surprising amount of information on their usage is stored inside their `.meta` files. For behavior defining code, C# scripts are called by a framework of multithreaded "game engines". Although this project sticks to a simple set, each can be heavily modified for each game's individual needs. You can examine code in TODO directory.
 
-# Refuge
-Final build mirror: https: [drive.google.com/drive/folders/1qWDePw4Cg8pD65aCcJvwfTi9Cq34CdVd](https://drive.google.com/drive/folders/1qWDePw4Cg8pD65aCcJvwfTi9Cq34CdVd)
+To examine the complete scene's organization and the tunable values, installing Unity on a Windows or Mac system is required. Installing and configuring a Linux environment that is able to correctly run Unity's shader engine and development is very challenging. I learned the hard way that Unity's "officially supported" distro and kernel are a bumpy road of installing missing dependencies, manually compiling unofficial libaries, and avoiding specific unstable tools. I got it all to work once for learning purposes, and I learned I'm never trying that again.
+
+For a detailed analysis of the project install [UnityHub](https://unity.com/unity-hub), give them an email for a free personal license, download a 2021.3 version of the Unity editor and this repo, and import and open the project. I am aware this sentence is easier said than done. If you are comitted to trying this and hit an inevitable roadblock, reach out to me via email for IT support.
