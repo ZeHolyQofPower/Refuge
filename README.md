@@ -1,5 +1,5 @@
 ## What Am I Looking At?
-Refuge is a 3D puzzle adventure game. An island to explore, with ournal excerpts to discover the lore, and a mysterious door that unlocks with three hidden keys. Our team of three people, [Cole](https://github.com/colelewis), [Kora](https://github.com/KoraLoud), and [I](https://github.com/ZeHolyQofPower), filled the island with realistic beaches, forests, a maze, a tower, a cabin, and various foliage.
+Refuge is a 3D puzzle adventure game. An island to explore, with journal excerpts to discover the lore, and a mysterious door that unlocks with three hidden keys. Our team of three people, [Cole](https://github.com/colelewis), [Kora](https://github.com/KoraLoud), and [I](https://github.com/ZeHolyQofPower), filled the island with realistic beaches, forests, a maze, a tower, a cabin, and various foliage.
 
 This game also has a two minute [trailer](https://www.youtube.com/watch?v=6IcB0dZ5vS0&t=10s) on YouTube.
 
@@ -13,9 +13,9 @@ This game also has a two minute [trailer](https://www.youtube.com/watch?v=6IcB0d
 
 <img src="https://github.com/ZeHolyQofPower/Refuge/blob/main/Readme_Assets/rat_jr_model.png" width="300" height="150"/>
 
-* Rigging, Weighting, and inverse kinematic animation using keyframes done in Blender.
+* Rigging, weighting, and inverse kinematic animation using keyframes done in Blender.
 
-<img src="https://github.com/ZeHolyQofPower/Refuge/blob/main/Readme_Assets/rat_jr.gif" width="400" height="200"/>
+<img src="https://github.com/ZeHolyQofPower/Refuge/blob/main/Readme_Assets/rat_jr.gif" width="600" height="300"/>
 
 * Movement animations and state logic made using C# scripts in Unity.
 * Material effects like transparency, reflections, and bump maps, created in Unity's Shader Engine.
@@ -23,7 +23,7 @@ This game also has a two minute [trailer](https://www.youtube.com/watch?v=6IcB0d
 <img src="https://github.com/ZeHolyQofPower/Refuge/blob/main/Readme_Assets/ocean_waves.gif" width="600" height="300"/>
 
 ## Soft Skills Presented
-* We were a team of three for the entire semester. This specific game had about TODO # weeks of development.
+* Formed a team of three for the entire semester. This specific game had about TODO # weeks of development.
 * TODO put GDD in here and link to it
 * Wrote a detailed [game design document](https://duckduckgo.com/) that planned out the deliverables and unified vision.
 * Met in weekly stand up meetings outside of our class time. Also communicated regularly in a Discord server.
@@ -33,11 +33,11 @@ This game also has a two minute [trailer](https://www.youtube.com/watch?v=6IcB0d
 * Polished complete game, and created trailer at end to present to class!
 
 ## Digging Into the Details and Code
-Do you have a technical background and want to really take a look yourself?
+Want to really take a look yourself?
 
 The [refuge_build_for_windows.zip](https://github.com/ZeHolyQofPower/Refuge/blob/main/refuge_build_for_windows.zip) is a complete and self contained Windows version. You can download it and play it for yourself.
 
-Unity is a detailed IDE with many included libaries and tools. For visual assets created outside of it and imported, a surprising amount of information on their usage is stored inside their `.meta` files. For behavior defining code, C# scripts are called by a framework of multithreaded "game engines". Although this project sticks to a simple set, each can be heavily modified for each game's individual needs. You can examine code in TODO directory.
+Unity is a detailed IDE with many included libaries and tools. For visual assets created outside of it and imported, a surprising amount of information on their usage is stored inside their `.meta` files. For behavior defining code, C# scripts are called by a framework of multithreaded "game engines" and "managers". Although this project sticks to a simple set, each can be heavily modified for each game's individual needs. You can examine code in [Assets/Scripts](https://github.com/ZeHolyQofPower/Refuge/tree/main/Assets/Scripts).
 
 To examine the complete scene's organization and the tunable values, installing Unity on a Windows or Mac system is required. Installing and configuring a Linux environment that is able to correctly run Unity's shader engine and development is very challenging. I learned the hard way that Unity's "officially supported" distro and kernel are a bumpy road of installing missing dependencies, manually compiling unofficial libaries, and avoiding specific unstable tools. I got it all to work once for learning purposes, and I learned I'm never trying that again.
 
