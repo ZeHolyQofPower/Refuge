@@ -11,11 +11,11 @@ This game also has a two minute [trailer](https://www.youtube.com/watch?v=6IcB0d
 <img src="https://github.com/ZeHolyQofPower/Refuge/blob/main/Assets/Visual/Pictures/sand.png" width="150" height="150"/>    <img src="https://github.com/ZeHolyQofPower/Refuge/blob/main/Assets/Visual/Pictures/grass.png" width="150" height="150"/>
 * 3D models created in Blender. This rat model for example:
 
-<img src="https://github.com/ZeHolyQofPower/Refuge/blob/main/rat_jr_model.png" width="300" height="150"/>
+<img src="https://github.com/ZeHolyQofPower/Refuge/blob/main/Readme_Assets/rat_jr_model.png" width="300" height="150"/>
 
 * Rigging, Weighting, and inverse kinematic animation using keyframes done in Blender.
 
-<img src="https://github.com/ZeHolyQofPower/Refuge/blob/main/rat_jr.gif" width="400" height="200"/>
+<img src="https://github.com/ZeHolyQofPower/Refuge/blob/main/Readme_Assets/rat_jr.gif" width="400" height="200"/>
 
 * Movement animations and state logic made using C# scripts in Unity.
 
