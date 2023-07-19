@@ -23,9 +23,8 @@ This game also has a two minute [trailer](https://www.youtube.com/watch?v=6IcB0d
 <img src="https://github.com/ZeHolyQofPower/Refuge/blob/main/Readme_Assets/ocean_waves.gif" width="600" height="300"/>
 
 ## Soft Skills Presented
-* Formed a team of three for the entire semester. This specific game had about TODO # weeks of development.
-* TODO put GDD in here and link to it
-* Wrote a detailed [game design document](https://duckduckgo.com/) that planned out the deliverables and unified vision.
+* Formed a team of three for the entire semester. This specific game had eight weeks of development.
+* Wrote a detailed [Game Design Document](https://github.com/ZeHolyQofPower/Refuge/blob/main/Game%20and%20Technical%20Design%20Document.docx) that planned out the deliverables and unified vision.
 * Met in weekly stand up meetings outside of our class time. Also communicated regularly in a Discord server.
 * Adjusted our plan and development sprints around professor feedback and other school projects.
 * Spent time together in person to solve software interaction problems and merge complex branches.
